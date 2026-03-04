@@ -1,4 +1,4 @@
-** week 1 **
+# week 1 
 https://www.notion.so/Week-1-3020617087dc802a9edaee78b2f76e1a?pvs=10
 
 ** week 2 **
