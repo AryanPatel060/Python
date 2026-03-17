@@ -7,4 +7,5 @@
 | **Week 3** | Closures & Decorators (Deep) | Closures, LEGB, late binding, decorator stacking, middleware-style design | [Open Week 3](https://www.notion.so/Week-3-3110617087dc80f3a348f62a6edc38c5?pvs=10) |
 | **Week 4** | Descriptors, `type()` | dynamic class creation, metaclasses, mini ORM core | [Open Week 4](https://www.notion.so/Week-4-3180617087dc80dca0fce966bcad9184?pvs=10) |
 | **Week 5** | OOP Mastery & Metaprogramming|Advanced OOP, MRO, and building bulletproof interfaces. | [Open Week 5](https://www.notion.so/Week-5-31e0617087dc8076a132c9ee0d442bd8) |
+| **Week 6** | Descriptors & Metaclasses Topics | Descriptor protocol How @property works internally type and class creation Metaclass use cases (ORM-style) | [Open Week 6](https://www.notion.so/Week-6-3260617087dc80c7a39acfcd4a119d32) |
 ---
